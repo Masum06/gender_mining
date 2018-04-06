@@ -2,8 +2,11 @@
 
 # REQUIREMENTS
 pip install tensorflow
+
 pip install keras
+
 pip2 install nltk
+
 python2 -m nltk.downloader all
 
 * NLTK runs on python 2 only
